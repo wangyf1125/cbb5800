@@ -1,0 +1,42 @@
+H	VN:Z:1.0
+S	utg0	AACT	LN:i:4
+S	utg1	ACTA	LN:i:4
+S	utg2	AGCA	LN:i:4
+S	utg3	AGGT	LN:i:4
+S	utg4	ATTG	LN:i:4
+S	utg5	ATTT	LN:i:4
+S	utg6	CATT	LN:i:4
+S	utg7	CTAG	LN:i:4
+S	utg8	GAAC	LN:i:4
+S	utg9	GCAT	LN:i:4
+S	utg10	GGTA	LN:i:4
+S	utg11	GTAA	LN:i:4
+S	utg12	GTAG	LN:i:4
+S	utg13	TAGC	LN:i:4
+S	utg14	TAGG	LN:i:4
+S	utg15	TGAA	LN:i:4
+S	utg16	TGCA	LN:i:4
+S	utg17	TGGT	LN:i:4
+S	utg18	TTGA	LN:i:4
+S	utg19	TTGC	LN:i:4
+S	utg20	TTTG	LN:i:4
+L	utg19	+	utg16	+	3M
+L	utg16	+	utg9	+	3M
+L	utg15	+	utg8	+	3M
+L	utg8	+	utg0	+	3M
+L	utg4	+	utg19	+	3M
+L	utg9	+	utg6	+	3M
+L	utg6	+	utg5	+	3M
+L	utg5	+	utg20	+	3M
+L	utg17	+	utg10	+	3M
+L	utg10	+	utg11	+	3M
+L	utg20	+	utg18	+	3M
+L	utg0	+	utg1	+	3M
+L	utg1	+	utg7	+	3M
+L	utg13	+	utg2	+	3M
+L	utg2	+	utg9	+	3M
+L	utg14	+	utg3	+	3M
+L	utg3	+	utg10	+	3M
+L	utg18	+	utg15	+	3M
+L	utg10	+	utg12	+	3M
+L	utg12	+	utg13	+	3M
